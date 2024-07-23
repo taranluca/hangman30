@@ -25,6 +25,8 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 1. Exemplar Hangman file
 2. milestone_2.py - testing file for random and character length
 3. milestone_3.py - testing file for validating alphabetical characters and presence in a word
-
+4. milestone_3.2.py - test version to help create milestone_4
+5. milestone_4.py - testing file for creating the core features of the game
+6. milestone_4.2.py - development on milestone_4 the most recent version
 
 ### 5. License Information
