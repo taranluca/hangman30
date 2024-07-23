@@ -22,7 +22,9 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 
 
 ### 4. Project File Structure
-
+1. Exemplar Hangman file
+2. milestone_2.py - testing file for random and character length
+3. milestone_3.py - testing file for validating alphabetical characters and presence in a word
 
 
 ### 5. License Information
